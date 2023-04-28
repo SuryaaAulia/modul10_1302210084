@@ -1,0 +1,12 @@
+C:\Users\SSS\Documents\KPL\modul10_1302210084\AljabarLibraries\AljabarLibraries\bin\Debug\net6.0\AljabarLibraries.deps.json
+C:\Users\SSS\Documents\KPL\modul10_1302210084\AljabarLibraries\AljabarLibraries\bin\Debug\net6.0\AljabarLibraries.dll
+C:\Users\SSS\Documents\KPL\modul10_1302210084\AljabarLibraries\AljabarLibraries\bin\Debug\net6.0\AljabarLibraries.pdb
+C:\Users\SSS\Documents\KPL\modul10_1302210084\AljabarLibraries\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.csproj.AssemblyReference.cache
+C:\Users\SSS\Documents\KPL\modul10_1302210084\AljabarLibraries\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSS\Documents\KPL\modul10_1302210084\AljabarLibraries\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.AssemblyInfoInputs.cache
+C:\Users\SSS\Documents\KPL\modul10_1302210084\AljabarLibraries\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.AssemblyInfo.cs
+C:\Users\SSS\Documents\KPL\modul10_1302210084\AljabarLibraries\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.csproj.CoreCompileInputs.cache
+C:\Users\SSS\Documents\KPL\modul10_1302210084\AljabarLibraries\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.dll
+C:\Users\SSS\Documents\KPL\modul10_1302210084\AljabarLibraries\AljabarLibraries\obj\Debug\net6.0\refint\AljabarLibraries.dll
+C:\Users\SSS\Documents\KPL\modul10_1302210084\AljabarLibraries\AljabarLibraries\obj\Debug\net6.0\AljabarLibraries.pdb
+C:\Users\SSS\Documents\KPL\modul10_1302210084\AljabarLibraries\AljabarLibraries\obj\Debug\net6.0\ref\AljabarLibraries.dll
